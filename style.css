@@ -1,0 +1,10 @@
+div
+    {
+        margin:auto;
+        width: 50%;
+     }
+blockquote
+    {
+        border-style: ridge;
+        text-align:center;
+    }
